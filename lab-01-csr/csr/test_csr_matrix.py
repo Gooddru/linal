@@ -1,5 +1,5 @@
 import unittest
-from CSRMatrix import CSRMatrix
+from csr_matrix import CSRMatrix
 
 
 class TestCSRMatrix(unittest.TestCase):
